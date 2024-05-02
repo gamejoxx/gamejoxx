@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gamejoxx
 - 👀 I’m interested in rng, art, game dev
-- 🌱 I’m currently learning unity, blender, life
-- 💞️ I’m looking to collaborate on game dev
+- 🌱 I’m currently learning bunch of random stuff
+- 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me: here 
 - 😄 Pronouns: M
 - ⚡ Fun fact: appraiser of lost kites
