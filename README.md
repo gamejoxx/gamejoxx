@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning bunch of random stuff
 - 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me: here 
-- 😄 Pronouns: M
 - ⚡ Fun fact: appraiser of lost kites
 
 <!---
